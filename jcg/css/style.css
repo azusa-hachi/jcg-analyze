@@ -1,0 +1,17 @@
+p {
+    margin: 0;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+.select-box {
+    display: flex;
+    margin-bottom: 10px;
+}
+.select-box p {
+    width: 100px;
+}
+.card-img {
+    width: 300px;
+}
